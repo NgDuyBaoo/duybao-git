@@ -11,10 +11,10 @@ Welcome to C2 Store – the paradise of fashionable shoes! We take pride in offe
 # Our Mockup
 
 # Detail of the project
-Wireframe
-Planning 
-Task
-Screenshot
+- Wireframe
+- Planning 
+- Task
+- Screenshot
 # Prerequisites
 Before running this project, ensure you have the following installed:
 
