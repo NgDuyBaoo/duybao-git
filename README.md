@@ -4,7 +4,7 @@ Welcome to C2 Store – the paradise of fashionable shoes! We take pride in offe
 
 # Technologies
 Models: Define data structures and interact with the database.
-Views: Handle application logic and return responses.
+Views: Handle application logic and return responses. 
 Templates: Create user interfaces using HTML and template tags.
 ORM (Object-Relational Mapping)
 Facilitate working with the database without writing direct SQL.
