@@ -2,7 +2,7 @@
 # Overview
 Welcome to C2 Store – the paradise of fashionable shoes! We take pride in offering you a diverse collection of stylish, high-quality shoes, from trendy sneakers to elegant high heels. Let us help you shine with every step you take!
 # Technologies
-[Visit Google](https://www.google.com)
+
 
 
 
@@ -11,7 +11,7 @@ Welcome to C2 Store – the paradise of fashionable shoes! We take pride in offe
 # Our Mockup
 
 # Detail of the project
-- Wireframe
+- Wireframe(https://www.figma.com/design/eNzURp2k9Fg3rs83d0ZZ8I/Web-B%C3%A1n-GI%C3%A0y-(Community)?node-id=35-343&t=0OzoYRWdzZfBfIcH-0)
 - Planning 
 - Task
 - Screenshot
